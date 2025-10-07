@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox" width="25" height="25" />
 <br>
 <div align="center">
 <a href="https://github.com/protocol-404">
