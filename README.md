@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Dilali-Ismail/Dilali-Ismail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" width="50">
+<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<br>
+<div align="center">
+<a href="https://github.com/protocol-404">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilali-Ismail&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilali-Ismail&theme=github_dark" width="32.5%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilali-Ismail&theme=github_dark" width="32.5%" />
+</a>
+<br>
+<strong>More stats</strong>
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilali-Ismail&theme=github_dark" width="100%" />
+<hr>
+</div>
+</div>
